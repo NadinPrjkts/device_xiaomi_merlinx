@@ -15,9 +15,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-   $(LOCAL_DIR)/arrow_merlinx.mk
+   $(LOCAL_DIR)/nad_merlinx.mk
 
 COMMON_LUNCH_CHOICES := \
-    arrow_merlinx-user \
-    arrow_merlinx-userdebug \
-    arrow_merlinx-eng
+    nad_merlinx-user \
+    nad_merlinx-userdebug \
+    nad_merlinx-eng
